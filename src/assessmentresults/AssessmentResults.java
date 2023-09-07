@@ -7,6 +7,7 @@ public class AssessmentResults {
     public static void main(String[] args) {
         
         Scanner scan = new Scanner (System.in);
+        //Declarations
         double mark=0;
         int total=80;
         
